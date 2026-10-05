@@ -1,0 +1,29 @@
+Python is a high-level, interpreted, general-purpose programming language. 
+It is known for its simple syntax and readability.
+Variables in Python are used to store data values. Python is dynamically typed,
+so we do not need to declare the data type of a variable explicitly.
+Python supports several built-in data types such as int, float, string, list,
+tuple, set, and dictionary.
+A list is an ordered and mutable collection of elements. Lists are created
+using square brackets. Example: numbers = [10, 20, 30].
+A tuple is an ordered and immutable collection. Tuples are created using
+parentheses. Example: numbers = (10, 20, 30).
+A dictionary stores data in key-value pairs. It is created using curly brackets.
+Example: student = {"name": "Ravi", "age": 20}.
+A set is an unordered collection of unique elements. It is useful when duplicate
+values need to be removed.
+A function is a reusable block of code that performs a specific task.
+Functions are defined using the def keyword.
+Conditional statements are used to make decisions in a program.
+Python provides if, elif, and else statements.
+Loops are used to execute a block of code repeatedly. Python provides for loops
+and while loops.
+Object-Oriented Programming is a programming approach based on objects and
+classes. A class is a blueprint for creating objects.
+Inheritance allows one class to acquire the properties and methods of another
+class. Encapsulation means combining data and methods inside a class.
+Polymorphism allows the same interface to be used for different implementations.
+Exception handling is used to handle runtime errors without stopping the entire
+program. Python uses try, except, else, and finally blocks for exception handling.
+Python is widely used in web development, data science, machine learning,
+automation, artificial intelligence, and software development.
